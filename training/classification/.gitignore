@@ -1,0 +1,6 @@
+*.pyc
+*.pth.tar
+cat_dog*
+plants*
+models/
+logs/

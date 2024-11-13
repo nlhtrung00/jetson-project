@@ -1,0 +1,7 @@
+Coca_Cola
+Fanta
+Mirinda
+Pepsi
+Red_Bull
+Sprite
+Sting

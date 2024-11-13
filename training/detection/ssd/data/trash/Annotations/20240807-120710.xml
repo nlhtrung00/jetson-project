@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20240807-120710.jpg</filename>
+    <folder>trash</folder>
+    <source>
+        <database>trash</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Coca_Cola</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>257</xmin>
+            <ymin>55</ymin>
+            <xmax>511</xmax>
+            <ymax>503</ymax>
+        </bndbox>
+    </object>
+</annotation>

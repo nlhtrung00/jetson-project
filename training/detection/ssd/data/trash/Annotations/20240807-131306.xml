@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20240807-131306.jpg</filename>
+    <folder>trash</folder>
+    <source>
+        <database>trash</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Fanta</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>497</xmin>
+            <ymin>5</ymin>
+            <xmax>704</xmax>
+            <ymax>440</ymax>
+        </bndbox>
+    </object>
+</annotation>
